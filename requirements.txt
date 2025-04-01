@@ -1,0 +1,5 @@
+numpy>=2.2.2 
+pyBlindOpt>=0.1.3.6
+joblib>=1.4.2
+hnswlib>=0.8.0
+coco-experiment==2.6.101

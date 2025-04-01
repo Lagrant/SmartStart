@@ -1,0 +1,60 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Python packaging
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Unit test and coverage tools
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache
+.pytest_cache/
+
+# Environment variable files
+.env
+.env.*
+
+# Type checker caches
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Installer-generated files
+*.manifest
+*.spec
