@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SmartStart: Accelerating Convergence through Uncommon Region Exploration
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Xinyu
+    email: zhang146@cs.stonybrook.edu
+    family-names: Zhang
+    affiliation: Stony Brook University
+    orcid: 'https://orcid.org/0000-0002-7475-8979'
+  - given-names: Mário
+    family-names: Antunes
+    email: mario.antunes@ua.pt
+    affiliation: Universidade de Aveiro
+    orcid: 'https://orcid.org/0000-0002-6504-9441'
+  - given-names: Tyler
+    email: testro@cs.stonybrook.edu
+    family-names: Estro
+    affiliation: Stony Brook University
+    orcid: 'https://orcid.org/0000-0002-5851-8801'
+repository-code: 'https://github.com/Lagrant/SmartStart'
+license: MIT
+version: '1.0'
+date-released: '2025-04-04'
